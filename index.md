@@ -78,6 +78,7 @@ This page is not a collaboration without contributions. It has been created by E
 - [The WebAIM Million](https://webaim.org/projects/million/) - An annual accessibility analysis of the top 1,000,000 home pages
 - [Axe](https://www.deque.com/axe/) - An open source automated tool for testing partial web accessibility. Great for learning and awareness.
 - [Screen Reader Reference](https://dequeuniversity.com/screenreaders/)
+- [Assistiv Labs](https://assistivlabs.com) - cloud-based tool for manually testing assistive technologies. Free for open source projects.
 
 <h3 id="courses">Courses</h3>
 
